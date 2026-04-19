@@ -37,3 +37,6 @@ print({"name": resp.json().get("pref_name"), "max_phase": resp.json().get("max_p
 
 ## Next step
 Create a reusable ID-mapping utility with retries and schema validation.
+
+## Where to Learn Next
+If you want to apply these methods in structured pharma projects, compare self-paced paths in [Capsule Courses](https://www.pharmaleap.in/courses) and cohort-based mentoring in [Live Courses](https://www.pharmaleap.in/live-classes).
